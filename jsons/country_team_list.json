@@ -1,0 +1,1384 @@
+{
+  "country": [
+    {
+      "name": "Argentina",
+      "id": 0,
+      "top_player": [
+        {
+          "name": "MESSI, Lionel",
+          "club": "Paris Saint-Germain",
+          "rating": 98
+        },
+        {
+          "name": "AGÜERO, Sergio",
+          "club": "Barcelona",
+          "rating": 93
+        },
+        {
+          "name": "DYBALA, Paulo",
+          "club": "Juventus",
+          "rating": 93
+        },
+        {
+          "name": "DI MARÍA, Ángel",
+          "club": "Paris Saint-Germain",
+          "rating": 92
+        },
+        {
+          "name": "ICARDI, Mauro",
+          "club": "Paris Saint-Germain",
+          "rating": 92
+        },
+        {
+          "name": "MARTÍNEZ, Lautaro",
+          "club": "Internazionale",
+          "rating": 92
+        },
+        {
+          "name": "CORREA, Ángel",
+          "club": "Atlético Madrid",
+          "rating": 91
+        },
+        {
+          "name": "DE PAUL, Rodrigo",
+          "club": "Atlético Madrid",
+          "rating": 91
+        }
+      ],
+      "top_clubs": [
+        {
+          "url": "assets/icons/270.png",
+          "club": "Boca Juniors",
+          "manager": "Sebastián Battaglia"
+        },
+        {
+          "url": "assets/icons/282.png",
+          "club": "River Plate",
+          "manager": "Marcelo Gallardo"
+        },
+        {
+          "url": "assets/icons/281.png",
+          "club": "Racing Club",
+          "manager": "Claudio Úbeda"
+        },
+        {
+          "url": "assets/icons/284.png",
+          "club": "San Lorenzo",
+          "manager": "Paolo Montero"
+        },
+        {
+          "url": "assets/icons/285.png",
+          "club": "Vélez Sársfield",
+          "manager": "Mauricio Pellegrino"
+        }
+      ],
+      "all_cups": [
+        {
+          "name": "Copa Argentina",
+          "year": 1969
+        },
+        {
+          "name": "Supercopa Argentina",
+          "year": 2012
+        }
+      ]
+    },
+    {
+      "name": "Brazil",
+      "id": 1,
+      "top_player": [
+        {
+          "name": "NEYMAR, Júnior",
+          "club": "Paris Saint-Germain",
+          "rating": 96
+        },
+        {
+          "name": "BECKER, Alisson",
+          "club": "Liverpool",
+          "rating": 95
+        },
+        {
+          "name": "CASEMIRO, Carlos",
+          "club": "Real Madrid",
+          "rating": 94
+        },
+        {
+          "name": "MARQUINHOS, Corrêa",
+          "club": "Paris Saint-Germain",
+          "rating": 94
+        },
+        {
+          "name": "FABINHO, Tavares",
+          "club": "Liverpool",
+          "rating": 93
+        },
+        {
+          "name": "FIRMINO, Roberto",
+          "club": "Liverpool",
+          "rating": 93
+        },
+        {
+          "name": "MORAES, Ederson",
+          "club": "Manchester City",
+          "rating": 93
+        },
+        {
+          "name": "COUTINHO, Philippe",
+          "club": "Barcelona",
+          "rating": 92
+        }
+      ],
+      "top_clubs": [
+        {
+          "url": "assets/icons/294.png",
+          "club": "Flamengo",
+          "manager": "Renato Gaúcho"
+        },
+        {
+          "url": "assets/icons/300.png",
+          "club": "Palmeiras",
+          "manager": "Abel Ferreira"
+        },
+        {
+          "url": "assets/icons/286.png",
+          "club": "Atlético Mineiro",
+          "manager": "Alexi Stival Cuca"
+        },
+        {
+          "url": "assets/icons/290.png",
+          "club": "Corinthians",
+          "manager": "Mendes Sylvinho"
+        },
+        {
+          "url": "assets/icons/306.png",
+          "club": "São Paulo FC",
+          "manager": "Hernán Crespo"
+        }
+      ],
+      "all_cups": [
+        {
+          "name": "Copa do Brasil",
+          "year": 1989
+        },
+        {
+          "name": "Copa do Nordeste",
+          "year": 1976
+        },
+        {
+          "name": "Copa Verde",
+          "year": 2014
+        }
+      ]
+    },
+    {
+      "name": "England",
+      "id": 2,
+      "top_player": [
+        {
+          "name": "KANE, Harry",
+          "club": "Tottenham Hotspur",
+          "rating": 95
+        },
+        {
+          "name": "STERLING, Raheem",
+          "club": "Manchester City",
+          "rating": 94
+        },
+        {
+          "name": "ALEXANDER-ARNOLD, Trent",
+          "club": "Liverpool",
+          "rating": 93
+        },
+        {
+          "name": "HENDERSON, Jordan",
+          "club": "Liverpool",
+          "rating": 92
+        },
+        {
+          "name": "MAGUIRE, Harry",
+          "club": "Manchester City",
+          "rating": 92
+        },
+        {
+          "name": "RASHFORD, Marcus",
+          "club": "Manchester City",
+          "rating": 92
+        },
+        {
+          "name": "SANCHO, Jadon",
+          "club": "Manchester City",
+          "rating": 92
+        },
+        {
+          "name": "VARDY, Jamie",
+          "club": "Leicester City",
+          "rating": 92
+        }
+      ],
+      "top_clubs": [
+        {
+          "url": "assets/icons/44.png",
+          "club": "Liverpool",
+          "manager": "Jürgen Klopp"
+        },
+        {
+          "url": "assets/icons/47.png",
+          "club": "Manchester City",
+          "manager": "Pep Guardiola"
+        },
+        {
+          "url": "assets/icons/49.png",
+          "club": "Manchester United",
+          "manager": "Ole Gunnar Solskjær"
+        },
+        {
+          "url": "assets/icons/21.png",
+          "club": "Chelsea",
+          "manager": "Thomas Tuchel"
+        },
+        {
+          "url": "assets/icons/80.png",
+          "club": "Tottenham Hotspur",
+          "manager": "Nuno Espírito Santo"
+        }
+      ],
+      "all_cups": [
+        {
+          "name": "FA Cup",
+          "year": 1871
+        },
+        {
+          "name": "League Cup",
+          "year": 1960
+        },
+        {
+          "name": "Football League Trophy",
+          "year": 1983
+        },
+        {
+          "name": "FA Trophy",
+          "year": 1969
+        },
+        {
+          "name": "FA Community Shield",
+          "year": 1908
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "id": 3,
+      "top_player": [
+        {
+          "name": "MBAPPÉ, Kylian",
+          "club": "Paris Saint-Germain",
+          "rating": 95
+        },
+        {
+          "name": "BENZEMA, Karim",
+          "club": "Real Madrid",
+          "rating": 94
+        },
+        {
+          "name": "KANTÉ, N'golo",
+          "club": "Chelsea",
+          "rating": 94
+        },
+        {
+          "name": "VARANE, Raphaël",
+          "club": "Manchester United",
+          "rating": 94
+        },
+        {
+          "name": "GRIEZMANN, Antoine",
+          "club": "Barcelona",
+          "rating": 93
+        },
+        {
+          "name": "POGBA, Paul",
+          "club": "Manchester United",
+          "rating": 93
+        },
+        {
+          "name": "COMAN, Kingsley",
+          "club": "Bayern München",
+          "rating": 92
+        },
+        {
+          "name": "LLORIS, Hugo",
+          "club": "Tottenham Hotspur",
+          "rating": 92
+        }
+      ],
+      "top_clubs": [
+        {
+          "url": "assets/icons/338.png",
+          "club": "Paris Saint-Germain",
+          "manager": "Mauricio Pochettino"
+        },
+        {
+          "url": "assets/icons/329.png",
+          "club": "Olympique Lyonnais",
+          "manager": "Peter Bosz"
+        },
+        {
+          "url": "assets/icons/332.png",
+          "club": "AS Monaco",
+          "manager": "Niko Kovač"
+        },
+        {
+          "url": "assets/icons/432.png",
+          "club": "Lille OSC",
+          "manager": "Jocelyn Gourvennec"
+        },
+        {
+          "url": "assets/icons/330.png",
+          "club": "Olympique Marseille",
+          "manager": "Jorge Sampaoli"
+        }
+      ],
+      "all_cups": [
+        {
+          "name": "Coupe de la Ligue",
+          "year": 1994
+        },
+        {
+          "name": "Coupe de France",
+          "year": 1917
+        },
+        {
+          "name": "Trophée des Champions",
+          "year": 1949
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "id": 4,
+      "top_player": [
+        {
+          "name": "KIMMICH, Joshua",
+          "club": "Bayern München",
+          "rating": 95
+        },
+        {
+          "name": "NEUER, Manuel",
+          "club": "Bayern München",
+          "rating": 95
+        },
+        {
+          "name": "KROOS, Toni",
+          "club": "Real Madrid",
+          "rating": 94
+        },
+        {
+          "name": "MÜLLER, Thomas",
+          "club": "Bayern München",
+          "rating": 94
+        },
+        {
+          "name": "TER STEGEN, Marc-André",
+          "club": "Barcelona",
+          "rating": 94
+        },
+        {
+          "name": "GNABRY, Serge",
+          "club": "Bayern München",
+          "rating": 93
+        },
+        {
+          "name": "GORETZKA, Leon",
+          "club": "Bayern München",
+          "rating": 93
+        },
+        {
+          "name": "GÜNDOĞAN, Ilkay",
+          "club": "Manchester City",
+          "rating": 93
+        }
+      ],
+      "top_clubs": [
+        {
+          "url": "assets/icons/391.png",
+          "club": "Bayern München",
+          "manager": "Julian Nagelsmann"
+        },
+        {
+          "url": "assets/icons/392.png",
+          "club": "Borussia Dortmund",
+          "manager": "Marco Rose"
+        },
+        {
+          "url": "assets/icons/1657.png",
+          "club": "RB Leipzig",
+          "manager": "Jesse Marsch"
+        },
+        {
+          "url": "assets/icons/390.png",
+          "club": "Bayer Leverkusen",
+          "manager": "Gerardo Seoane"
+        },
+        {
+          "url": "assets/icons/393.png",
+          "club": "Borussia Mönchengladbach",
+          "manager": "Adi Hütter"
+        }
+      ],
+      "all_cups": [
+        {
+          "name": "DFB Pokal",
+          "year": 1934
+        },
+        {
+          "name": "DFL-Supercup",
+          "year": 1987
+        },
+        {
+          "name": "DFB-Pokal",
+          "year": 1935
+        }
+      ]
+    },
+    {
+      "name": "Greece",
+      "id": 5,
+      "top_player": [
+        {
+          "name": "MANOLAS, Kostas",
+          "club": "SSC Napoli",
+          "rating": 91
+        },
+        {
+          "name": "FORTOUNIS, Kostas",
+          "club": "Olympiacos",
+          "rating": 88
+        },
+        {
+          "name": "VLACHODIMOS, Odisseas",
+          "club": "SL Benfica",
+          "rating": 88
+        },
+        {
+          "name": "SIOVAS, Dimitris",
+          "club": "Free Agent",
+          "rating": 87
+        },
+        {
+          "name": "TSIMIKAS, Kostas",
+          "club": "Liverpool",
+          "rating": 87
+        },
+        {
+          "name": "GIANNOULIS, Dimitris",
+          "club": "Norwich City",
+          "rating": 86
+        },
+        {
+          "name": "HOLEBAS, José",
+          "club": "Free Agent",
+          "rating": 86
+        },
+        {
+          "name": "KYRIAKOPOULOS, Giorgos",
+          "club": "Sassuolo",
+          "rating": 86
+        }
+      ],
+      "top_clubs": [
+        {
+          "url": "assets/icons/373.png",
+          "club": "Olympiacos",
+          "manager": "Pedro Martins"
+        },
+        {
+          "url": "assets/icons/491.png",
+          "club": "PAOK",
+          "manager": "Răzvan Lucescu"
+        },
+        {
+          "url": "assets/icons/372.png",
+          "club": "AEK Athens",
+          "manager": "Vladan Milojević"
+        },
+        {
+          "url": "assets/icons/374.png",
+          "club": "Panathinaikos",
+          "manager": "Ivan Jovanović"
+        },
+        {
+          "url": "assets/icons/762.png",
+          "club": "Aris Thessaloniki",
+          "manager": "Apostolos Mantzios"
+        }
+      ],
+      "all_cups": [
+        {
+          "name": "Greek Cup",
+          "year": 1931
+        },
+        {
+          "name": "Greek Super Cup",
+          "year": 1970
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "id": 6,
+      "top_player": [
+        {
+          "name": "VERRATTI, Marco",
+          "club": "Paris Saint-Germain",
+          "rating": 94
+        },
+        {
+          "name": "IMMOBILE, Ciro",
+          "club": "SS Lazio",
+          "rating": 93
+        },
+        {
+          "name": "BARELLA, Nicolò",
+          "club": "Internazionale",
+          "rating": 92
+        },
+        {
+          "name": "BONUCCI, Leonardo",
+          "club": "Juventus",
+          "rating": 92
+        },
+        {
+          "name": "DONNARUMMA, Gianluigi",
+          "club": "Paris Saint-Germain",
+          "rating": 92
+        },
+        {
+          "name": "INSIGNE, Lorenzo",
+          "club": "SSC Napoli",
+          "rating": 92
+        },
+        {
+          "name": "JORGINHO, Frello",
+          "club": "Chelsea",
+          "rating": 92
+        },
+        {
+          "name": "BASTONI, Alessandro",
+          "club": "Internazionale",
+          "rating": 91
+        }
+      ],
+      "top_clubs": [
+        {
+          "url": "assets/icons/109.png",
+          "club": "Internazionale",
+          "manager": "Simone Inzaghi"
+        },
+        {
+          "url": "assets/icons/110.png",
+          "club": "Juventus",
+          "manager": "Massimiliano Allegri"
+        },
+        {
+          "url": "assets/icons/746.png",
+          "club": "SSC Napoli",
+          "manager": "Luciano Spalletti"
+        },
+        {
+          "url": "assets/icons/115.png",
+          "club": "AC Milan",
+          "manager": "Stefano Pioli"
+        },
+        {
+          "url": "assets/icons/96.png",
+          "club": "Atalanta BC",
+          "manager": "Gian Piero Gasperini"
+        }
+      ],
+      "all_cups": [
+        {
+          "name": "Coppa Italia",
+          "year": 1922
+        },
+        {
+          "name": "Supercoppa Italiana",
+          "year": 1988
+        },
+        {
+          "name": "Coppa Italia Lega Pro",
+          "year": 1972
+        },
+        {
+          "name": "Supercoppa di Lega di Prima Divisione",
+          "year": 2000
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "id": 7,
+      "top_player": [
+        {
+          "name": "KAMADA, Daichi",
+          "club": "Eintracht Frankfurt",
+          "rating": 89
+        },
+        {
+          "name": "MINAMINO, Takumi",
+          "club": "Liverpool",
+          "rating": 88
+        },
+        {
+          "name": "SAKAI, Hiroki",
+          "club": "Urawa Red Diamonds",
+          "rating": 88
+        },
+        {
+          "name": "TOMIYASU, Takehiro",
+          "club": "Arsenal",
+          "rating": 88
+        },
+        {
+          "name": "ENDO, Wataru",
+          "club": "VfB Stuttgart",
+          "rating": 87
+        },
+        {
+          "name": "HASEBE, Makoto",
+          "club": "Eintracht Frankfurt",
+          "rating": 87
+        },
+        {
+          "name": "INUI, Takashi",
+          "club": "Cerezo Osaka",
+          "rating": 87
+        },
+        {
+          "name": "ITO, Junya",
+          "club": "KRC Genk",
+          "rating": 87
+        }
+      ],
+      "top_clubs": [
+        {
+          "url": "assets/icons/1079.png",
+          "club": "Vissel Kobe",
+          "manager": "Atsuhiro MIURA"
+        },
+        {
+          "url": "assets/icons/527.png",
+          "club": "Kawasaki Frontale",
+          "manager": "Toru Oniki"
+        },
+        {
+          "url": "assets/icons/518.png",
+          "club": "Kashima Antlers",
+          "manager": "Unknown"
+        },
+        {
+          "url": "assets/icons/517.png",
+          "club": "Urawa Red Diamonds",
+          "manager": "Ricardo Rodríguez"
+        },
+        {
+          "url": "assets/icons/506.png",
+          "club": "Yokohama F. Marinos",
+          "manager": "Unknown"
+        }
+      ],
+      "all_cups": [
+        {
+          "name": "Emperor's Cup",
+          "year": 1921
+        },
+        {
+          "name": "J. League Cup",
+          "year": 1992
+        }
+      ]
+    },
+    {
+      "name": "Netherlands",
+      "id": 8,
+      "top_player": [
+        {
+          "name": "VAN DIJK, Virgil",
+          "club": "Liverpool",
+          "rating": 96
+        },
+        {
+          "name": "DE JONG, Frenkie",
+          "club": "Barcelona",
+          "rating": 93
+        },
+        {
+          "name": "WIJNALDUM, Georginio",
+          "club": "Paris Saint-Germain",
+          "rating": 93
+        },
+        {
+          "name": "DE LIGT, Matthijs",
+          "club": "Juventus",
+          "rating": 92
+        },
+        {
+          "name": "DE VRIJ, Stefan",
+          "club": "Internazionale",
+          "rating": 92
+        },
+        {
+          "name": "DEPAY, Memphis",
+          "club": "Barcelona",
+          "rating": 92
+        },
+        {
+          "name": "BLIND, Daley",
+          "club": "Ajax",
+          "rating": 91
+        },
+        {
+          "name": "VAN DE BEEK, Donny",
+          "club": "Manchester United",
+          "rating": 91
+        }
+      ],
+      "top_clubs": [
+        {
+          "url": "assets/icons/108.png",
+          "club": "Ajax",
+          "manager": "Erik Ten Hag"
+        },
+        {
+          "url": "assets/icons/201.png",
+          "club": "PSV",
+          "manager": "Roger Schmidt"
+        },
+        {
+          "url": "assets/icons/192.png",
+          "club": "Feyenoord",
+          "manager": "Arne Slot"
+        },
+        {
+          "url": "assets/icons/179.png",
+          "club": "AZ Alkmaar",
+          "manager": "Unknown"
+        },
+        {
+          "url": "assets/icons/213.png",
+          "club": "De Graafschap",
+          "manager": "Mike Snoei"
+        }
+      ],
+      "all_cups": [
+        {
+          "name": "KNVB-Beker",
+          "year": 1898
+        },
+        {
+          "name": "KNVB Cup",
+          "year": 1898
+        },
+        {
+          "name": "Johan Cruijff Schaal",
+          "year": 1949
+        }
+      ]
+    },
+    {
+      "name": "Portugal",
+      "id": 9,
+      "top_player": [
+        {
+          "name": "RONALDO, Cristiano",
+          "club": "Manchester United",
+          "rating": 96
+        },
+        {
+          "name": "FERNANDES, Bruno",
+          "club": "Manchester United",
+          "rating": 94
+        },
+        {
+          "name": "SILVA, Bernardo",
+          "club": "Manchester City",
+          "rating": 93
+        },
+        {
+          "name": "CANCELO, João",
+          "club": "Manchester City",
+          "rating": 92
+        },
+        {
+          "name": "DIAS, Rúben",
+          "club": "Manchester City",
+          "rating": 92
+        },
+        {
+          "name": "FÉLIX, João",
+          "club": "Atlético Madrid",
+          "rating": 91
+        },
+        {
+          "name": "GUERREIRO, Raphaël",
+          "club": "Borussia Dortmund",
+          "rating": 91
+        },
+        {
+          "name": "JOTA, Diogo",
+          "club": "Liverpool",
+          "rating": 91
+        }
+      ],
+      "top_clubs": [
+        {
+          "url": "assets/icons/218.png",
+          "club": "SL Benfica",
+          "manager": "Jorge Jesus"
+        },
+        {
+          "url": "assets/icons/224.png",
+          "club": "FC Porto",
+          "manager": "Sérgio Conceição"
+        },
+        {
+          "url": "assets/icons/246.png",
+          "club": "Sporting CP",
+          "manager": "Rúben Amorim"
+        },
+        {
+          "url": "assets/icons/243.png",
+          "club": "Sporting de Braga",
+          "manager": "Carlos Carvalhal"
+        },
+        {
+          "url": "assets/icons/250.png",
+          "club": "Vitória de Guimarães",
+          "manager": "Pedro Miguel Pepa"
+        }
+      ],
+      "all_cups": [
+        {
+          "name": "Taça da Liga",
+          "year": 2007
+        },
+        {
+          "name": "Taça de Portugal",
+          "year": 1938
+        },
+        {
+          "name": "Supertaça Candido de Oliveira",
+          "year": 1978
+        }
+      ]
+    },
+    {
+      "name": "Russia",
+      "id": 10,
+      "top_player": [
+        {
+          "name": "DZYUBA, Artem",
+          "club": "Zenit Saint Petersburg",
+          "rating": 89
+        },
+        {
+          "name": "FERNANDES, Mário",
+          "club": "CSKA Moskva",
+          "rating": 89
+        },
+        {
+          "name": "GOLOVIN, Aleksandr",
+          "club": "AS Monaco",
+          "rating": 89
+        },
+        {
+          "name": "MIRANCHUK, Aleksey",
+          "club": "Atalanta BC",
+          "rating": 88
+        },
+        {
+          "name": "ZOBNIN, Roman",
+          "club": "Spartak Moskva",
+          "rating": 88
+        },
+        {
+          "name": "AKINFEEV, Igor",
+          "club": "CSKA Moskva",
+          "rating": 87
+        },
+        {
+          "name": "CHALOV, Fedor",
+          "club": "CSKA Moskva",
+          "rating": 87
+        },
+        {
+          "name": "CHERYSHEV, Denis",
+          "club": "Valencia CF",
+          "rating": 87
+        }
+      ],
+      "top_clubs": [
+        {
+          "url": "assets/icons/265.png",
+          "club": "Zenit Saint Petersburg",
+          "manager": "Sergey Semak"
+        },
+        {
+          "url": "assets/icons/258.png",
+          "club": "Lokomotiv Moskva",
+          "manager": "Marko Nikolić"
+        },
+        {
+          "url": "assets/icons/1673.png",
+          "club": "FC Krasnodar",
+          "manager": "Viktor Goncharenko"
+        },
+        {
+          "url": "assets/icons/263.png",
+          "club": "Spartak Moskva",
+          "manager": "Rui Vitória"
+        },
+        {
+          "url": "assets/icons/254.png",
+          "club": "CSKA Moskva",
+          "manager": "Aleksey BEREZUTSKY"
+        }
+      ],
+      "all_cups": [
+        {
+          "name": "Kubok Rossii",
+          "year": 1992
+        },
+        {
+          "name": "Superkubok Rossii",
+          "year": 2003
+        }
+      ]
+    },
+    {
+      "name": "Scotland",
+      "id": 11,
+      "top_player": [
+        {
+          "name": "ROBERTSON, Andy",
+          "club": "Liverpool",
+          "rating": 93
+        },
+        {
+          "name": "MCTOMINAY, Scott",
+          "club": "Manchester United",
+          "rating": 90
+        },
+        {
+          "name": "TIERNEY, Kieran",
+          "club": "Arsenal",
+          "rating": 90
+        },
+        {
+          "name": "MCGINN, John",
+          "club": "Aston Villa",
+          "rating": 89
+        },
+        {
+          "name": "ADAMS, Ché",
+          "club": "Southampton",
+          "rating": 87
+        },
+        {
+          "name": "ARMSTRONG, Stuart",
+          "club": "Southampton",
+          "rating": 87
+        },
+        {
+          "name": "CHRISTIE, Ryan",
+          "club": "AFC Bournemouth",
+          "rating": 87
+        },
+        {
+          "name": "FRASER, Ryan",
+          "club": "Newcastle United",
+          "rating": 87
+        }
+      ],
+      "top_clubs": [
+        {
+          "url": "assets/icons/429.png",
+          "club": "Rangers",
+          "manager": "Steven Gerrard"
+        },
+        {
+          "url": "assets/icons/421.png",
+          "club": "Celtic",
+          "manager": "Ange Postecoglou"
+        },
+        {
+          "url": "assets/icons/420.png",
+          "club": "Aberdeen",
+          "manager": "Stephen Glass"
+        },
+        {
+          "url": "assets/icons/424.png",
+          "club": "Heart of Midlothian",
+          "manager": "Robbie Neilson"
+        },
+        {
+          "url": "assets/icons/425.png",
+          "club": "Hibernian",
+          "manager": "Jack Ross"
+        }
+      ],
+      "all_cups": [
+        {
+          "name": "Scottish Cup",
+          "year": 1874
+        },
+        {
+          "name": "Scottish Challenge Cup",
+          "year": 1990
+        },
+        {
+          "name": "Scottish League Cup",
+          "year": 1947
+        },
+        {
+          "name": "Highland League Cup",
+          "year": 1946
+        }
+      ]
+    },
+    {
+      "name": "Spain",
+      "id": 12,
+      "top_player": [
+        {
+          "name": "ALCÂNTARA, Thiago",
+          "club": "Liverpool",
+          "rating": 94
+        },
+        {
+          "name": "RAMOS, Sergio",
+          "club": "Paris Saint-Germain",
+          "rating": 94
+        },
+        {
+          "name": "KOKE, Jorge",
+          "club": "Atlético Madrid",
+          "rating": 93
+        },
+        {
+          "name": "ALBA, Jordi",
+          "club": "Barcelona",
+          "rating": 92
+        },
+        {
+          "name": "ALBERTO, Luis",
+          "club": "SS Lazio",
+          "rating": 92
+        },
+        {
+          "name": "BUSQUETS, Sergio",
+          "club": "Barcelona",
+          "rating": 92
+        },
+        {
+          "name": "CARVAJAL, Daniel",
+          "club": "Real Madrid",
+          "rating": 92
+        },
+        {
+          "name": "HERNÁNDEZ, Rodri",
+          "club": "Manchester City",
+          "rating": 92
+        }
+      ],
+      "top_clubs": [
+        {
+          "url": "assets/icons/163.png",
+          "club": "Real Madrid",
+          "manager": "Carlo Ancelotti"
+        },
+        {
+          "url": "assets/icons/139.png",
+          "club": "Atlético Madrid",
+          "manager": "Diego Simeone"
+        },
+        {
+          "url": "assets/icons/140.png",
+          "club": "Barcelona",
+          "manager": "Ronald Koeman"
+        },
+        {
+          "url": "assets/icons/168.png",
+          "club": "Sevilla",
+          "manager": "Julen Lopetegui"
+        },
+        {
+          "url": "assets/icons/174.png",
+          "club": "Villarreal CF",
+          "manager": "Unai Emery"
+        }
+      ],
+      "all_cups": [
+        {
+          "name": "Copa del Rey",
+          "year": 1903
+        },
+        {
+          "name": "Copa Federación",
+          "year": 1944
+        },
+        {
+          "name": "Supercopa de España",
+          "year": 1982
+        }
+      ]
+    },
+    {
+      "name": "Turkey",
+      "id": 13,
+      "top_player": [
+        {
+          "name": "ÇALHANOĞLU, Hakan",
+          "club": "Internazionale",
+          "rating": 91
+        },
+        {
+          "name": "SÖYÜNCÜ, Caglar",
+          "club": "Leicester City",
+          "rating": 90
+        },
+        {
+          "name": "CELIK, Zeki",
+          "club": "Lille OSC",
+          "rating": 89
+        },
+        {
+          "name": "ÜNDER, Cengiz",
+          "club": "AS Roma",
+          "rating": 89
+        },
+        {
+          "name": "YILMAZ, Burak",
+          "club": "Lille OSC",
+          "rating": 89
+        },
+        {
+          "name": "DEMIRAL, Merih",
+          "club": "Juventus",
+          "rating": 88
+        },
+        {
+          "name": "YAZICI, Yusuf",
+          "club": "Lille OSC",
+          "rating": 88
+        },
+        {
+          "name": "YOKUSLU, Okay",
+          "club": "Celta Vigo",
+          "rating": 88
+        }
+      ],
+      "top_clubs": [
+        {
+          "url": "assets/icons/349.png",
+          "club": "Beşiktaş JK",
+          "manager": "Sergen Yalçın"
+        },
+        {
+          "url": "assets/icons/351.png",
+          "club": "Galatasaray SK",
+          "manager": "Fatih Terim"
+        },
+        {
+          "url": "assets/icons/350.png",
+          "club": "Fenerbahçe SK",
+          "manager": "Vítor Pereira"
+        },
+        {
+          "url": "assets/icons/352.png",
+          "club": "Trabzonspor",
+          "manager": "Abdullah Avci"
+        },
+        {
+          "url": "assets/icons/1226.png",
+          "club": "Istanbul Başakşehir",
+          "manager": "Aykut Kocaman"
+        }
+      ],
+      "all_cups": [
+        {
+          "name": "Türkiye Kupası",
+          "year": 1962
+        },
+        {
+          "name": "TFF Süper Kupa",
+          "year": 1966
+        }
+      ]
+    },
+    {
+      "name": "Ukraine",
+      "id": 14,
+      "top_player": [
+        {
+          "name": "MALINOVSKIY, Ruslan",
+          "club": "Atalanta BC",
+          "rating": 90
+        },
+        {
+          "name": "ZINCHENKO, Oleksandr",
+          "club": "Manchester City",
+          "rating": 90
+        },
+        {
+          "name": "STEPANENKO, Taras",
+          "club": "Shakhtar Donetsk",
+          "rating": 89
+        },
+        {
+          "name": "TSYHANKOV, Viktor",
+          "club": "Dynamo Kyiv",
+          "rating": 89
+        },
+        {
+          "name": "KONOPLYANKA, Yevhen",
+          "club": "Shakhtar Donetsk",
+          "rating": 88
+        },
+        {
+          "name": "MARLOS, Bonfim",
+          "club": "Shakhtar Donetsk",
+          "rating": 88
+        },
+        {
+          "name": "MATVIYENKO, Mykola",
+          "club": "Shakhtar Donetsk",
+          "rating": 88
+        },
+        {
+          "name": "MYKOLENKO, Vitaliy",
+          "club": "Dynamo Kyiv",
+          "rating": 88
+        }
+      ],
+      "top_clubs": [
+        {
+          "url": "assets/icons/348.png",
+          "club": "Shakhtar Donetsk",
+          "manager": "Roberto De Zerbi"
+        },
+        {
+          "url": "assets/icons/347.png",
+          "club": "Dynamo Kyiv",
+          "manager": "Mircea Lucescu"
+        },
+        {
+          "url": "assets/icons/1099.png",
+          "club": "Zorya Luhansk",
+          "manager": "Viktor Skrypnyk"
+        },
+        {
+          "url": "assets/icons/1100.png",
+          "club": "Vorskla Poltava",
+          "manager": "Yuriy Maksimov"
+        },
+        {
+          "url": "assets/icons/1030.png",
+          "club": "Tavriya Simferopol",
+          "manager": "Unknown"
+        }
+      ],
+      "all_cups": [
+        {
+          "name": "Ukrainian Cup",
+          "year": 1992
+        },
+        {
+          "name": "Ukrainian Super Cup",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "name": "United States",
+      "id": 15,
+      "top_player": [
+        {
+          "name": "PULISIC, Christian",
+          "club": "Chelsea",
+          "rating": 91
+        },
+        {
+          "name": "MCKENNIE, Weston",
+          "club": "Juventus",
+          "rating": 89
+        },
+        {
+          "name": "ADAMS, Tyler",
+          "club": "RB Leipzig",
+          "rating": 88
+        },
+        {
+          "name": "BROOKS, John Anthony",
+          "club": "VfL Wolfsburg",
+          "rating": 88
+        },
+        {
+          "name": "DEST, Sergiño",
+          "club": "Barcelona",
+          "rating": 88
+        },
+        {
+          "name": "REYNA, Giovanni",
+          "club": "Borussia Dortmund",
+          "rating": 87
+        },
+        {
+          "name": "BRADLEY, Michael",
+          "club": "Toronto FC",
+          "rating": 87
+        },
+        {
+          "name": "STEFFEN, Zack",
+          "club": "Manchester City",
+          "rating": 87
+        }
+      ],
+      "top_clubs": [
+        {
+          "url": "assets/icons/1336.png",
+          "club": "Seattle Sounders",
+          "manager": "Brian Schmetzer"
+        },
+        {
+          "url": "assets/icons/3210.png",
+          "club": "New York City FC",
+          "manager": "Ronny Deila"
+        },
+        {
+          "url": "assets/icons/455.png",
+          "club": "Chicago Fire",
+          "manager": "Raphael Wicky"
+        },
+        {
+          "url": "assets/icons/461.png",
+          "club": "Los Angeles Galaxy",
+          "manager": "Greg Vanney"
+        },
+        {
+          "url": "assets/icons/5228.png",
+          "club": "Inter Miami CF",
+          "manager": "Phil Neville"
+        }
+      ],
+      "all_cups": [
+        {
+          "name": "MLS Cup",
+          "year": 1996
+        },
+        {
+          "name": "Lamar Hunt U.S. Open Cup",
+          "year": 1914
+        }
+      ]
+    }
+  ]
+}

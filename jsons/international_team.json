@@ -1,0 +1,175 @@
+[
+  {
+    "id": 0,
+    "tShirt": [
+      "assets/jersey/arg.png",
+      "assets/jersey/3_front_small.png"
+    ],
+    "founded": 1893,
+    "stadium": "Estadio Monumental ",
+    "location": "Buenos Aires",
+    "manager": "Lionel Scaloni"
+  },
+  {
+    "id": 1,
+    "tShirt": [
+      "assets/jersey/bra.png",
+      "assets/jersey/3_front_small.png"
+    ],
+    "founded": 1914,
+    "stadium": "Maracanã",
+    "location": "Rio de Janeiro",
+    "manager": "TITE"
+  },
+  {
+    "id": 2,
+    "tShirt": [
+      "assets/jersey/eng.png",
+      "assets/jersey/117_front_small.png"
+    ],
+    "founded": 1863,
+    "stadium": "Wembley Stadium",
+    "location": "London",
+    "manager": "Gareth Southgate"
+  },
+  {
+    "id": 3,
+    "tShirt": [
+      "assets/jersey/fra.png",
+      "assets/jersey/10_front_small.png"
+    ],
+    "founded": 1919,
+    "stadium": "Stade de France",
+    "location": "Paris",
+    "manager": "Didier Deschamps"
+  },
+  {
+    "id": 4,
+    "tShirt": [
+      "assets/jersey/ger.png",
+      "assets/jersey/10_front_small.png"
+    ],
+    "founded": 1900,
+    "stadium": "Olympic Stadium",
+    "location": "Berlin",
+    "manager": "Hans-Dieter Flick"
+  },
+  {
+    "id": 5,
+    "tShirt": [
+      "assets/jersey/gre.png",
+      "assets/jersey/2_front_small.png"
+    ],
+    "founded": 1926,
+    "stadium": "Georgios Karaiskakis Stadium",
+    "location": "Athens",
+    "manager": "John van't Schip"
+  },
+  {
+    "id": 6,
+    "tShirt": [
+      "assets/jersey/ita.png",
+      "assets/jersey/12_front_small.png"
+    ],
+    "founded": 1898,
+    "stadium": "San Siro ",
+    "location": "Milan",
+    "manager": "Roberto Mancini"
+  },
+  {
+    "id": 7,
+    "tShirt": [
+      "assets/jersey/jap.png",
+      "assets/jersey/12_front_small.png"
+    ],
+    "founded": 1921,
+    "stadium": "Nissan Stadium",
+    "location": "Yokohama",
+    "manager": "Hajime Moriyasu"
+  },
+  {
+    "id": 8,
+    "tShirt": [
+      "assets/jersey/265_front_small.png"
+    ],
+    "founded": 1889,
+    "stadium": "Johan Cruyff Arena",
+    "location": "Amsterdam",
+    "manager": "Louis Van Gaal"
+  },
+  {
+    "id": 9,
+    "tShirt": [
+      "assets/jersey/12_front_small.png"
+    ],
+    "founded": 1914,
+    "stadium": "Estadio da Luz",
+    "location": "Lisbon",
+    "manager": "Fernando Santos"
+  },
+  {
+    "id": 10,
+    "tShirt": [
+      "assets/jersey/rus.png",
+      "assets/jersey/12_front_small.png"
+    ],
+    "founded": 1912,
+    "stadium": "Luzhniki",
+    "location": "Moscow",
+    "manager": "Stanislav Cherchesov"
+  },
+  {
+    "id": 11,
+    "tShirt": [
+      "assets/jersey/3_front_small.png",
+      "assets/jersey/13_front_small.png"
+    ],
+    "founded": 1873,
+    "stadium": "Hampden Park",
+    "location": "Glasgow",
+    "manager": "Steve Clarke"
+  },
+  {
+    "id": 12,
+    "tShirt": [
+      "assets/jersey/12_front_small.png"
+    ],
+    "founded": 1909,
+    "stadium": "Santiago Bernabéu ",
+    "location": "Madrid",
+    "manager": "Luis Enrique"
+  },
+  {
+    "id": 13,
+    "tShirt": [
+      "assets/jersey/tur.png",
+      "assets/jersey/107_front_small.png"
+    ],
+    "founded": 1923,
+    "stadium": "Ataturk",
+    "location": "Istanbul",
+    "manager": "Stefan KUNTZ"
+  },
+  {
+    "id": 14,
+    "tShirt": [
+      "assets/jersey/13_front_small.png",
+      "assets/jersey/2_front_small.png"
+    ],
+    "founded": 1991,
+    "stadium": "Olimpiysky NSC",
+    "location": "Kiev",
+    "manager": "Andriy Shevchenko"
+  },
+  {
+    "id": 15,
+    "tShirt": [
+      "assets/jersey/usa.png",
+      "assets/jersey/294_front_small.png"
+    ],
+    "founded": 1913,
+    "stadium": "Rose Bowl",
+    "location": "Pasadena",
+    "manager": "Dave Sarachan"
+  }
+]
